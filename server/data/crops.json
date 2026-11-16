@@ -1,0 +1,222 @@
+[
+  {
+    "id": "wheat",
+    "name": "Wheat",
+    "hindiName": "गेहूं",
+    "punjabiName": "ਕਣਕ",
+    "seasons": ["Rabi"],
+    "soils": ["Alluvial", "Loamy", "Clay Loam"],
+    "suitableStates": ["Punjab", "Haryana", "Uttar Pradesh", "Madhya Pradesh", "Rajasthan"],
+    "yieldQuintalsPerAcre": { "min": 18, "avg": 21, "max": 24 },
+    "benchmarkMspInr": 2425,
+    "durationDays": 135,
+    "waterNeed": "Moderate (4-5 irrigations)",
+    "storagePotential": "High (6-12 months in dry storage)",
+    "benchmarkCostPerAcre": {
+      "seed": 2200,
+      "fertilizer": 3800,
+      "labour": 6500,
+      "irrigation": 2400,
+      "other": 2100
+    },
+    "agronomyNote": "Performs best in cool Rabi temperatures with timely November sowing and balanced NPK application."
+  },
+  {
+    "id": "paddy",
+    "name": "Basmati Paddy",
+    "hindiName": "बासमती धान",
+    "punjabiName": "ਬਾਸਮਤੀ ਝੋਨਾ",
+    "seasons": ["Kharif"],
+    "soils": ["Alluvial", "Clay Loam", "Clay"],
+    "suitableStates": ["Punjab", "Haryana", "Uttar Pradesh"],
+    "yieldQuintalsPerAcre": { "min": 16, "avg": 19, "max": 22 },
+    "benchmarkMspInr": 2300,
+    "durationDays": 130,
+    "waterNeed": "High (Assured irrigation)",
+    "storagePotential": "High (Paddy stores well for 6+ months)",
+    "benchmarkCostPerAcre": {
+      "seed": 1800,
+      "fertilizer": 4200,
+      "labour": 9500,
+      "irrigation": 4800,
+      "other": 2600
+    },
+    "agronomyNote": "Export-grade Basmati commands significant premium over common MSP when moisture is kept below 14%."
+  },
+  {
+    "id": "mustard",
+    "name": "Mustard",
+    "hindiName": "सरसों",
+    "punjabiName": "ਸਰ੍ਹੋਂ",
+    "seasons": ["Rabi"],
+    "soils": ["Sandy Loam", "Loamy", "Alluvial"],
+    "suitableStates": ["Rajasthan", "Haryana", "Madhya Pradesh", "Uttar Pradesh", "Punjab"],
+    "yieldQuintalsPerAcre": { "min": 7, "avg": 9, "max": 11 },
+    "benchmarkMspInr": 5950,
+    "durationDays": 120,
+    "waterNeed": "Low (2-3 irrigations)",
+    "storagePotential": "High (Oilseed stores 6+ months)",
+    "benchmarkCostPerAcre": {
+      "seed": 950,
+      "fertilizer": 2600,
+      "labour": 4200,
+      "irrigation": 1400,
+      "other": 1600
+    },
+    "agronomyNote": "Low water requirement and strong oil-mill demand make mustard resilient in semi-arid Rabi belts."
+  },
+  {
+    "id": "cotton",
+    "name": "Cotton",
+    "hindiName": "कपास",
+    "punjabiName": "ਨਰਮਾ / ਕਪਾਹ",
+    "seasons": ["Kharif"],
+    "soils": ["Black Cotton", "Alluvial", "Sandy Loam"],
+    "suitableStates": ["Maharashtra", "Punjab", "Haryana", "Rajasthan", "Madhya Pradesh"],
+    "yieldQuintalsPerAcre": { "min": 8, "avg": 10.5, "max": 13 },
+    "benchmarkMspInr": 7121,
+    "durationDays": 165,
+    "waterNeed": "Moderate",
+    "storagePotential": "Moderate (Dry kapas holds 3-4 months)",
+    "benchmarkCostPerAcre": {
+      "seed": 2800,
+      "fertilizer": 4100,
+      "labour": 8800,
+      "irrigation": 2600,
+      "other": 3500
+    },
+    "agronomyNote": "Requires well-drained black or alluvial soil and vigilant pink bollworm monitoring during flowering."
+  },
+  {
+    "id": "maize",
+    "name": "Maize",
+    "hindiName": "मक्का",
+    "punjabiName": "ਮੱਕੀ",
+    "seasons": ["Kharif", "Rabi", "Zaid"],
+    "soils": ["Loamy", "Sandy Loam", "Alluvial", "Red Soil"],
+    "suitableStates": ["Madhya Pradesh", "Punjab", "Uttar Pradesh", "Maharashtra", "Rajasthan"],
+    "yieldQuintalsPerAcre": { "min": 18, "avg": 22, "max": 26 },
+    "benchmarkMspInr": 2225,
+    "durationDays": 105,
+    "waterNeed": "Moderate (Avoid waterlogging)",
+    "storagePotential": "Moderate (Dry grain 4-6 months)",
+    "benchmarkCostPerAcre": {
+      "seed": 2400,
+      "fertilizer": 3400,
+      "labour": 5600,
+      "irrigation": 2200,
+      "other": 2000
+    },
+    "agronomyNote": "Strong ethanol and poultry-feed demand provides steady year-round mandi absorption."
+  },
+  {
+    "id": "chickpea",
+    "name": "Chickpea (Chana)",
+    "hindiName": "चना",
+    "punjabiName": "ਛੋਲੇ",
+    "seasons": ["Rabi"],
+    "soils": ["Black Cotton", "Loamy", "Sandy Loam"],
+    "suitableStates": ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Uttar Pradesh"],
+    "yieldQuintalsPerAcre": { "min": 6.5, "avg": 8.5, "max": 10.5 },
+    "benchmarkMspInr": 5650,
+    "durationDays": 115,
+    "waterNeed": "Low (1-2 irrigations)",
+    "storagePotential": "High (6+ months)",
+    "benchmarkCostPerAcre": {
+      "seed": 2600,
+      "fertilizer": 1800,
+      "labour": 3900,
+      "irrigation": 1100,
+      "other": 1400
+    },
+    "agronomyNote": "Nitrogen-fixing legume ideal for crop rotation after Kharif soybean or paddy."
+  },
+  {
+    "id": "soybean",
+    "name": "Soybean",
+    "hindiName": "सोयाबीन",
+    "punjabiName": "ਸੋਇਆਬੀਨ",
+    "seasons": ["Kharif"],
+    "soils": ["Black Cotton", "Clay Loam", "Loamy"],
+    "suitableStates": ["Madhya Pradesh", "Maharashtra", "Rajasthan"],
+    "yieldQuintalsPerAcre": { "min": 7, "avg": 9.5, "max": 12 },
+    "benchmarkMspInr": 4892,
+    "durationDays": 100,
+    "waterNeed": "Moderate (Rainfed friendly)",
+    "storagePotential": "High (5-6 months)",
+    "benchmarkCostPerAcre": {
+      "seed": 2900,
+      "fertilizer": 2400,
+      "labour": 4800,
+      "irrigation": 1200,
+      "other": 1900
+    },
+    "agronomyNote": "Short-duration Kharif crop suited for Malwa and Vidarbha black soils with timely drainage."
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "hindiName": "आलू",
+    "punjabiName": "ਆਲੂ",
+    "seasons": ["Rabi"],
+    "soils": ["Sandy Loam", "Alluvial", "Loamy"],
+    "suitableStates": ["Uttar Pradesh", "Punjab", "Haryana", "Madhya Pradesh"],
+    "yieldQuintalsPerAcre": { "min": 90, "avg": 115, "max": 140 },
+    "benchmarkMspInr": 1400,
+    "durationDays": 95,
+    "waterNeed": "Moderate-High (Light frequent irrigation)",
+    "storagePotential": "Cold storage required beyond 3 weeks",
+    "benchmarkCostPerAcre": {
+      "seed": 12500,
+      "fertilizer": 6200,
+      "labour": 9200,
+      "irrigation": 3100,
+      "other": 4200
+    },
+    "agronomyNote": "High gross output per acre; monitor cold-storage rental vs. immediate mandi price spreads."
+  },
+  {
+    "id": "onion",
+    "name": "Onion",
+    "hindiName": "प्याज",
+    "punjabiName": "ਪਿਆਜ਼",
+    "seasons": ["Rabi", "Kharif"],
+    "soils": ["Loamy", "Black Cotton", "Sandy Loam", "Red Soil"],
+    "suitableStates": ["Maharashtra", "Madhya Pradesh", "Rajasthan", "Uttar Pradesh"],
+    "yieldQuintalsPerAcre": { "min": 80, "avg": 105, "max": 130 },
+    "benchmarkMspInr": 2100,
+    "durationDays": 115,
+    "waterNeed": "Moderate",
+    "storagePotential": "Rabi onion stores 3-5 months in ventilated chawls",
+    "benchmarkCostPerAcre": {
+      "seed": 4200,
+      "fertilizer": 4900,
+      "labour": 11200,
+      "irrigation": 3300,
+      "other": 3100
+    },
+    "agronomyNote": "High price volatility offers strong upside if cured properly for staggered Rabi sales."
+  },
+  {
+    "id": "sugarcane",
+    "name": "Sugarcane",
+    "hindiName": "गन्ना",
+    "punjabiName": "ਗੰਨਾ",
+    "seasons": ["Kharif", "Zaid"],
+    "soils": ["Alluvial", "Clay Loam", "Black Cotton"],
+    "suitableStates": ["Uttar Pradesh", "Maharashtra", "Punjab", "Haryana"],
+    "yieldQuintalsPerAcre": { "min": 320, "avg": 380, "max": 440 },
+    "benchmarkMspInr": 340,
+    "durationDays": 310,
+    "waterNeed": "High",
+    "storagePotential": "Perishable after harvest (deliver within 48h)",
+    "benchmarkCostPerAcre": {
+      "seed": 9800,
+      "fertilizer": 7200,
+      "labour": 14500,
+      "irrigation": 6400,
+      "other": 3800
+    },
+    "agronomyNote": "Guaranteed FRP/SAP mill pricing reduces market risk but requires rapid post-harvest mill transport."
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "id": "mandi-khanna",
+    "name": "Khanna Grain Market",
+    "district": "Ludhiana",
+    "state": "Punjab",
+    "lat": 30.7056,
+    "lng": 76.2219,
+    "marketType": "Primary APMC Hub",
+    "commodities": {
+      "wheat": { "currentPrice": 2540, "arrivalsTonnes": 1420, "history30d": [2430, 2445, 2460, 2450, 2475, 2490, 2505, 2520, 2530, 2540] },
+      "paddy": { "currentPrice": 3680, "arrivalsTonnes": 980, "history30d": [3490, 3510, 3540, 3560, 3550, 3590, 3620, 3640, 3665, 3680] },
+      "maize": { "currentPrice": 2310, "arrivalsTonnes": 410, "history30d": [2240, 2255, 2260, 2270, 2265, 2280, 2290, 2295, 2305, 2310] },
+      "mustard": { "currentPrice": 6020, "arrivalsTonnes": 210, "history30d": [5880, 5900, 5910, 5935, 5950, 5960, 5980, 5995, 6010, 6020] },
+      "potato": { "currentPrice": 1520, "arrivalsTonnes": 640, "history30d": [1680, 1650, 1620, 1610, 1590, 1575, 1560, 1545, 1530, 1520] }
+    }
+  },
+  {
+    "id": "mandi-ludhiana",
+    "name": "Ludhiana Gill Road Mandi",
+    "district": "Ludhiana",
+    "state": "Punjab",
+    "lat": 30.8808,
+    "lng": 75.8594,
+    "marketType": "Regional APMC",
+    "commodities": {
+      "wheat": { "currentPrice": 2495, "arrivalsTonnes": 960, "history30d": [2410, 2420, 2435, 2440, 2450, 2460, 2475, 2480, 2490, 2495] },
+      "paddy": { "currentPrice": 3590, "arrivalsTonnes": 710, "history30d": [3450, 3465, 3480, 3500, 3510, 3530, 3550, 3565, 3580, 3590] },
+      "potato": { "currentPrice": 1590, "arrivalsTonnes": 880, "history30d": [1710, 1690, 1675, 1660, 1640, 1630, 1615, 1605, 1595, 1590] },
+      "maize": { "currentPrice": 2275, "arrivalsTonnes": 340, "history30d": [2210, 2220, 2230, 2235, 2245, 2250, 2260, 2265, 2270, 2275] }
+    }
+  },
+  {
+    "id": "mandi-jalandhar",
+    "name": "Jalandhar Maqsudan Mandi",
+    "district": "Jalandhar",
+    "state": "Punjab",
+    "lat": 31.3489,
+    "lng": 75.5453,
+    "marketType": "Vegetable & Grain APMC",
+    "commodities": {
+      "potato": { "currentPrice": 1680, "arrivalsTonnes": 1540, "history30d": [1790, 1775, 1760, 1740, 1730, 1720, 1705, 1695, 1685, 1680] },
+      "wheat": { "currentPrice": 2475, "arrivalsTonnes": 620, "history30d": [2405, 2415, 2425, 2430, 2440, 2445, 2455, 2460, 2470, 2475] },
+      "maize": { "currentPrice": 2340, "arrivalsTonnes": 490, "history30d": [2240, 2255, 2270, 2280, 2295, 2305, 2315, 2325, 2335, 2340] },
+      "paddy": { "currentPrice": 3540, "arrivalsTonnes": 520, "history30d": [3410, 3430, 3445, 3460, 3480, 3495, 3510, 3520, 3530, 3540] }
+    }
+  },
+  {
+    "id": "mandi-bathinda",
+    "name": "Bathinda Grain & Cotton Mandi",
+    "district": "Bathinda",
+    "state": "Punjab",
+    "lat": 30.2110,
+    "lng": 74.9455,
+    "marketType": "Cotton & Cereal Hub",
+    "commodities": {
+      "cotton": { "currentPrice": 7480, "arrivalsTonnes": 890, "history30d": [7120, 7180, 7210, 7260, 7310, 7350, 7390, 7420, 7450, 7480] },
+      "wheat": { "currentPrice": 2460, "arrivalsTonnes": 780, "history30d": [2390, 2400, 2410, 2420, 2425, 2435, 2440, 2448, 2455, 2460] },
+      "mustard": { "currentPrice": 6140, "arrivalsTonnes": 390, "history30d": [5920, 5950, 5975, 6005, 6030, 6055, 6080, 6100, 6120, 6140] }
+    }
+  },
+  {
+    "id": "mandi-karnal",
+    "name": "Karnal Anaj Mandi",
+    "district": "Karnal",
+    "state": "Haryana",
+    "lat": 29.6857,
+    "lng": 76.9905,
+    "marketType": "Primary Basmati & Wheat Hub",
+    "commodities": {
+      "paddy": { "currentPrice": 3820, "arrivalsTonnes": 1350, "history30d": [3560, 3595, 3630, 3660, 3690, 3720, 3750, 3775, 3800, 3820] },
+      "wheat": { "currentPrice": 2565, "arrivalsTonnes": 1120, "history30d": [2440, 2455, 2470, 2485, 2500, 2515, 2530, 2545, 2555, 2565] },
+      "mustard": { "currentPrice": 6080, "arrivalsTonnes": 280, "history30d": [5910, 5930, 5955, 5975, 5995, 6015, 6035, 6050, 6065, 6080] },
+      "sugarcane": { "currentPrice": 386, "arrivalsTonnes": 2100, "history30d": [380, 380, 382, 382, 384, 384, 385, 385, 386, 386] }
+    }
+  },
+  {
+    "id": "mandi-sirsa",
+    "name": "Sirsa Cotton & Mustard Mandi",
+    "district": "Sirsa",
+    "state": "Haryana",
+    "lat": 29.5349,
+    "lng": 75.0289,
+    "marketType": "Regional APMC",
+    "commodities": {
+      "cotton": { "currentPrice": 7560, "arrivalsTonnes": 1020, "history30d": [7180, 7230, 7270, 7320, 7365, 7410, 7450, 7490, 7525, 7560] },
+      "mustard": { "currentPrice": 6210, "arrivalsTonnes": 540, "history30d": [5960, 5990, 6025, 6055, 6085, 6110, 6140, 6165, 6190, 6210] },
+      "wheat": { "currentPrice": 2485, "arrivalsTonnes": 640, "history30d": [2410, 2420, 2430, 2440, 2445, 2455, 2465, 2472, 2478, 2485] }
+    }
+  },
+  {
+    "id": "mandi-hapur",
+    "name": "Hapur Naveen Mandi",
+    "district": "Hapur",
+    "state": "Uttar Pradesh",
+    "lat": 28.7306,
+    "lng": 77.7759,
+    "marketType": "Western UP Grain Benchmark",
+    "commodities": {
+      "wheat": { "currentPrice": 2590, "arrivalsTonnes": 1240, "history30d": [2460, 2475, 2490, 2505, 2520, 2535, 2550, 2565, 2578, 2590] },
+      "paddy": { "currentPrice": 3610, "arrivalsTonnes": 620, "history30d": [3440, 3460, 3480, 3500, 3520, 3540, 3560, 3578, 3595, 3610] },
+      "potato": { "currentPrice": 1640, "arrivalsTonnes": 950, "history30d": [1740, 1730, 1715, 1700, 1690, 1680, 1670, 1660, 1650, 1640] },
+      "sugarcane": { "currentPrice": 370, "arrivalsTonnes": 3200, "history30d": [365, 365, 366, 367, 368, 368, 369, 369, 370, 370] }
+    }
+  },
+  {
+    "id": "mandi-agra",
+    "name": "Agra Kiraoli Potato & Grain Mandi",
+    "district": "Agra",
+    "state": "Uttar Pradesh",
+    "lat": 27.1476,
+    "lng": 77.7834,
+    "marketType": "Potato & Mustard Hub",
+    "commodities": {
+      "potato": { "currentPrice": 1760, "arrivalsTonnes": 1820, "history30d": [1840, 1830, 1820, 1810, 1800, 1790, 1785, 1775, 1768, 1760] },
+      "mustard": { "currentPrice": 6290, "arrivalsTonnes": 690, "history30d": [6020, 6050, 6080, 6115, 6145, 6175, 6205, 6235, 6265, 6290] },
+      "wheat": { "currentPrice": 2510, "arrivalsTonnes": 720, "history30d": [2420, 2430, 2440, 2450, 2462, 2472, 2482, 2492, 2501, 2510] }
+    }
+  },
+  {
+    "id": "mandi-indore",
+    "name": "Indore Laxmibai Nagar Mandi",
+    "district": "Indore",
+    "state": "Madhya Pradesh",
+    "lat": 22.7429,
+    "lng": 75.8475,
+    "marketType": "Central India Commercial Hub",
+    "commodities": {
+      "soybean": { "currentPrice": 4780, "arrivalsTonnes": 1650, "history30d": [4590, 4615, 4640, 4660, 4685, 4705, 4725, 4745, 4765, 4780] },
+      "chickpea": { "currentPrice": 6120, "arrivalsTonnes": 940, "history30d": [5840, 5875, 5910, 5940, 5975, 6005, 6035, 6065, 6095, 6120] },
+      "wheat": { "currentPrice": 2720, "arrivalsTonnes": 1180, "history30d": [2580, 2595, 2610, 2630, 2645, 2660, 2675, 2690, 2705, 2720] },
+      "onion": { "currentPrice": 2480, "arrivalsTonnes": 1410, "history30d": [2210, 2245, 2280, 2310, 2340, 2375, 2405, 2430, 2455, 2480] }
+    }
+  },
+  {
+    "id": "mandi-ujjain",
+    "name": "Ujjain Chimanganj Mandi",
+    "district": "Ujjain",
+    "state": "Madhya Pradesh",
+    "lat": 23.1994,
+    "lng": 75.7849,
+    "marketType": "Malwa Soy & Wheat Hub",
+    "commodities": {
+      "soybean": { "currentPrice": 4710, "arrivalsTonnes": 1320, "history30d": [4540, 4560, 4580, 4600, 4620, 4640, 4660, 4675, 4695, 4710] },
+      "wheat": { "currentPrice": 2680, "arrivalsTonnes": 980, "history30d": [2540, 2555, 2575, 2590, 2605, 2620, 2635, 2650, 2665, 2680] },
+      "chickpea": { "currentPrice": 5990, "arrivalsTonnes": 640, "history30d": [5780, 5805, 5830, 5855, 5880, 5905, 5925, 5950, 5970, 5990] },
+      "maize": { "currentPrice": 2290, "arrivalsTonnes": 420, "history30d": [2200, 2210, 2225, 2235, 2245, 2255, 2265, 2275, 2282, 2290] }
+    }
+  },
+  {
+    "id": "mandi-lasalgaon",
+    "name": "Lasalgaon APMC Onion Market",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "lat": 20.1450,
+    "lng": 74.2341,
+    "marketType": "Asia Benchmark Onion Hub",
+    "commodities": {
+      "onion": { "currentPrice": 2840, "arrivalsTonnes": 2450, "history30d": [2380, 2430, 2480, 2540, 2590, 2645, 2700, 2750, 2795, 2840] },
+      "maize": { "currentPrice": 2380, "arrivalsTonnes": 390, "history30d": [2260, 2275, 2290, 2305, 2318, 2330, 2345, 2358, 2370, 2380] },
+      "soybean": { "currentPrice": 4650, "arrivalsTonnes": 510, "history30d": [4510, 4525, 4545, 4560, 4578, 4595, 4610, 4625, 4638, 4650] }
+    }
+  },
+  {
+    "id": "mandi-akola",
+    "name": "Akola Cotton & Pulse Mandi",
+    "district": "Akola",
+    "state": "Maharashtra",
+    "lat": 20.7002,
+    "lng": 77.0082,
+    "marketType": "Vidarbha Commercial APMC",
+    "commodities": {
+      "cotton": { "currentPrice": 7690, "arrivalsTonnes": 1150, "history30d": [7290, 7340, 7390, 7440, 7485, 7530, 7575, 7615, 7655, 7690] },
+      "soybean": { "currentPrice": 4740, "arrivalsTonnes": 880, "history30d": [4560, 4580, 4600, 4625, 4645, 4665, 4685, 4705, 4725, 4740] },
+      "chickpea": { "currentPrice": 6050, "arrivalsTonnes": 570, "history30d": [5810, 5840, 5870, 5895, 5920, 5950, 5975, 6000, 6025, 6050] }
+    }
+  },
+  {
+    "id": "mandi-kota",
+    "name": "Kota Bhama Shah Krishi Mandi",
+    "district": "Kota",
+    "state": "Rajasthan",
+    "lat": 25.1526,
+    "lng": 75.8648,
+    "marketType": "Hadoti Grain & Oilseed Hub",
+    "commodities": {
+      "mustard": { "currentPrice": 6350, "arrivalsTonnes": 1140, "history30d": [6040, 6075, 6110, 6145, 6180, 6215, 6250, 6285, 6320, 6350] },
+      "soybean": { "currentPrice": 4690, "arrivalsTonnes": 790, "history30d": [4520, 4540, 4560, 4580, 4600, 4620, 4640, 4658, 4675, 4690] },
+      "wheat": { "currentPrice": 2580, "arrivalsTonnes": 860, "history30d": [2460, 2475, 2490, 2505, 2518, 2530, 2545, 2558, 2570, 2580] },
+      "chickpea": { "currentPrice": 5940, "arrivalsTonnes": 480, "history30d": [5730, 5755, 5780, 5805, 5830, 5855, 5878, 5900, 5920, 5940] }
+    }
+  },
+  {
+    "id": "mandi-jaipur",
+    "name": "Jaipur Muhana Terminal Mandi",
+    "district": "Jaipur",
+    "state": "Rajasthan",
+    "lat": 26.8091,
+    "lng": 75.7410,
+    "marketType": "State Terminal Market",
+    "commodities": {
+      "mustard": { "currentPrice": 6260, "arrivalsTonnes": 820, "history30d": [6000, 6030, 6060, 6090, 6120, 6150, 6180, 6208, 6235, 6260] },
+      "onion": { "currentPrice": 2390, "arrivalsTonnes": 1120, "history30d": [2190, 2215, 2240, 2265, 2285, 2310, 2330, 2350, 2370, 2390] },
+      "wheat": { "currentPrice": 2530, "arrivalsTonnes": 740, "history30d": [2430, 2440, 2452, 2464, 2475, 2488, 2500, 2510, 2520, 2530] }
+    }
+  }
+]

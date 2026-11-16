@@ -1,0 +1,6 @@
+{
+  "name": "CULTIVO",
+  "description": "Intelligent Agriculture & Market Decision Platform — Grow Smarter. Harvest Better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

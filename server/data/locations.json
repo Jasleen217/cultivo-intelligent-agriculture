@@ -1,0 +1,16 @@
+[
+  { "id": "loc-ludhiana", "name": "Ludhiana, Punjab", "district": "Ludhiana", "state": "Punjab", "lat": 30.9010, "lng": 75.8573 },
+  { "id": "loc-patiala", "name": "Patiala, Punjab", "district": "Patiala", "state": "Punjab", "lat": 30.3398, "lng": 76.3869 },
+  { "id": "loc-jalandhar", "name": "Jalandhar, Punjab", "district": "Jalandhar", "state": "Punjab", "lat": 31.3260, "lng": 75.5762 },
+  { "id": "loc-bathinda", "name": "Bathinda, Punjab", "district": "Bathinda", "state": "Punjab", "lat": 30.2110, "lng": 74.9455 },
+  { "id": "loc-karnal", "name": "Karnal, Haryana", "district": "Karnal", "state": "Haryana", "lat": 29.6857, "lng": 76.9905 },
+  { "id": "loc-sirsa", "name": "Sirsa, Haryana", "district": "Sirsa", "state": "Haryana", "lat": 29.5349, "lng": 75.0289 },
+  { "id": "loc-meerut", "name": "Meerut, Uttar Pradesh", "district": "Meerut", "state": "Uttar Pradesh", "lat": 28.9845, "lng": 77.7064 },
+  { "id": "loc-agra", "name": "Agra, Uttar Pradesh", "district": "Agra", "state": "Uttar Pradesh", "lat": 27.1767, "lng": 78.0081 },
+  { "id": "loc-indore", "name": "Indore, Madhya Pradesh", "district": "Indore", "state": "Madhya Pradesh", "lat": 22.7196, "lng": 75.8577 },
+  { "id": "loc-dewas", "name": "Dewas, Madhya Pradesh", "district": "Dewas", "state": "Madhya Pradesh", "lat": 22.9676, "lng": 76.0534 },
+  { "id": "loc-nashik", "name": "Nashik, Maharashtra", "district": "Nashik", "state": "Maharashtra", "lat": 19.9975, "lng": 73.7898 },
+  { "id": "loc-akola", "name": "Akola, Maharashtra", "district": "Akola", "state": "Maharashtra", "lat": 20.7002, "lng": 77.0082 },
+  { "id": "loc-kota", "name": "Kota, Rajasthan", "district": "Kota", "state": "Rajasthan", "lat": 25.2138, "lng": 75.8648 },
+  { "id": "loc-jaipur", "name": "Jaipur, Rajasthan", "district": "Jaipur", "state": "Rajasthan", "lat": 26.9124, "lng": 75.7873 }
+]
